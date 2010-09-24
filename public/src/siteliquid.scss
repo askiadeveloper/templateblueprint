@@ -1,0 +1,17 @@
+// Screen
+@import "screen";
+
+ 
+body#home,
+body#aboutus,
+body#solutions,
+body#questions,
+body#careers,
+body#supports
+{  }
+
+#wrapper,#body,#container { @include container }
+
+#divtest {
+color: #FFFFFF;
+}
