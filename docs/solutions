@@ -1,0 +1,259 @@
+
+
+Solutions
+
+Web Content Management
+Document and Records Management
+Business Process Management
+Business Intelligence
+Corporate Intranet
+E-Commerce
+ERP* (Project Suivi et Evaluation)
+
+
+Industries
+Financial services
+Government
+Technology
+Education
+Media
+
+
+
+
+Web Content Management
+
+Hakili Web Content Management solutions provide a rich environment for creating, managing, and publishing Web content, and an infrastructure for supporting multiple sites
+ 
+Since the Web Content Management systems are built on open-source platforms, supporting, managing, and expanding these systems is straightforward and cost-effective.
+ 
+Because users of Web Content Management systems are generally non-technical business users or subject matter experts who are unfamiliar with HTML syntax, Hakili solutions include easy-to-use inline editors for text, HTML, and XML content, and connectors for editing documents using a variety of familiar desktop tools. For formatting simplicity, we include a transformation engine that converts content from one format to another. For example, incoming images of various types and sizes can be converted to a standard format and size. Drag-and-drop layout lets users customize the look and feel of a Web site without waiting for assistance from developers, and granular control over security enables content authors to secure web pages and the files, images, and videos embedded in them.
+ 
+Hakili Web Content Management solutions provide content management and search capabilities for over 35 languages, including the right-to-left languages such as Arabic and Hebrew. A robust full text search engine supports metadata and keyword searches, and returns results based on the user's access permissions.
+ 
+Key features
+
+    * Standards-based forms to create content
+    * Email based workflow and approval process
+    * In context review: View changes in context of live site
+    * Pre-built templates: Websites and website components
+    * Integration of enterprise systems
+    * Re-use existing sites: Easily reuse existing look and feel
+    * High-availability, fault tolerance, and scalability: Any number of sites, auto failover, and clustering of the delivery tier
+    * Multi-site change set management: Support for projects, sandboxes, changes sets, layers, and snapshots
+    * Preview feature with presentation templates
+    * Management of web assets
+    * Brand management
+    * Digital Image Library
+    * Mobile device support
+
+
+
+
+Document and Records Management
+Document Management Software (DMS) is a system used to track and store electronic documents and/or images of paper documents, provide storage, versioning, metadata, security, as well as indexing and retrieval capabilities.
+The need for Document Management:
+
+Some of the most common reasons that make having a document management solution imperative:
+
+    * Searching for required information in documents is time consuming
+    * Managing changes and versions of documents requires a lot of effort
+    * E-mailing documents to collaborate creates inbox clutter
+    * Decentralized management of documents encourage unnecessary replication
+    * Share sensitive documents among limited people.
+    * Ongoing security and backup of documents.
+
+
+Ensure complete, secure control of the document lifecycle, with straightforward search, storage, indexing, and version management
+ 
+Hakili Document Management solutions provide organizations with all the services necessary for creating, converting, managing, and sharing electronic documents. Built on industry-standard open source platforms, Hakili solutions ensure completeness, validity, traceability, and inalterability of important documents.
+ 
+Hakili Records Management solutions provide a secure, auditable environment for creating, declaring, classifying, retaining, and destructing records. Through our solutions, organizations can ensure compliance by defining and enforcing policies for records use, storage, and disposition with a legally defensible audit trail.
+ 
+Hakili Document and Records Management solutions are interoperable with any database (Oracle, MS SQL Server, MySQL, etc.), any membership system (RDBMS, LDAP, Microsoft Active Directory Services, etc.), any operating system (Windows, Linux, Solaris, etc.), and any external system (based on .NET, J2EE, Python, PHP, etc.).
+ 
+Key Features
+
+    * Version control, Locking, Check-in/out, Taxonomy
+    * Federated Search
+    * Multi-tenancy Support for SAAS
+    * Microsoft SharePoint protocol support
+    * Integration with Portals
+    * Imaging and Forms Management
+    * Integration with Scanners with OCR
+    * Indexing and full-text search
+    * Advanced reporting and dashboards
+    * Flexible and extensible workflow engine
+    * Scheduled jobs and actions
+    * Full audit control
+    * Record lifecycle management with archival and disposition schedules
+
+
+
+
+Business Process Management
+
+
+Achieve Process optimization and Improve Organizational Efficiency
+ 
+Hakili help clients in aligning the processes to business metrics, prioritize critical operations, and plan and mobilize internal resources to achieve the same.
+ 
+Hakili facilitates the following Business Process Management Lifecycle in a loop to optimize and standardize the processes in an organization. 
+
+    * Discover – Identify how the company operates, locate the pockets of inefficiency and business bottlenecks.
+    * Model – Formalize how the company should be operating with flow charts, organizational metrics
+    * Design – Bind the process models to actual roles, provide business rules and handle exceptions; all graphically without coding
+    * Deploy – Promote the process designs to runtime
+    * Execute – Execute the deployed processes as designed
+    * Interact - Enable people to perform tasks driven by process execution
+    * Monitor – Control the proper execution and performance of running processes
+    * Analyze – Identify unexpected behaviors, bottlenecks, process flows
+    * Optimize – Update the process designs in order to optimize them according to the analysis reports
+
+The following are some of the benchmarks of our solution
+
+    * 14 Millions in-memory transactions per CPU per day
+    * 3.6 Millions Persistent transactions per CPU per day
+    * 250 Millions Process instances running in parallel
+
+
+Optimizing IT organizations - Improve competitive advantage, innovation and delivery capability by adopting Agile and Lean project and organizational practices.
+
+Technology consulting - Our Systems Healthcheck, Architecture Review and Guidance, and SOA services provide pragmatic advice from specialists with real-world expertise as well as insight into industry trends and the latest academic findings.
+
+Testing strategy - Rethink and embed testing as a fully integrated part of the software development process to improve quality, predictability and reliability across the IT division.
+
+Customer experience – Deliver innovative, functional products using uncommon but common-sense techniques that elevate human factors to the same importance as the technology. 
+
+
+
+Business Intelligence
+
+
+Hakili Business Intelligence solutions improve efficiency, increase profits, reduce costs, improve productivity, accountability and provide insights that makes organization successful
+ 
+Business Intelligence provides ability to transform gathered data into actionable information.  Business intelligence includes various sub systems like Reporting Systems, Analytics, ETL System (Extraction, Transformation & Loading), a Data Warehouse, Dashboards & Data Mining system.
+ 
+Solution Benefits
+
+    * Helps to improve the speed and quality of decision-making
+    * Enables rapid delivery of important information to key decision makers
+    * Provides a mechanism for analysing the performance of any operational process
+    * Add value to all financial operations of organizations including forecasting and budgeting
+    * Gives any firm the specific view of corporate data that is required for progress
+    * Rich query reporting with graphical representation using reporting solutions
+    * Advance online analytical processing of data with interactive drilldown capabilities using analytic solutions
+    * Predicting hidden patterns and indicators of future performance using data mining solutions
+    * Real-time monitoring of performance through dashboards solutions
+    * ETL solution for to combine data warehousing solution with BI
+
+Hakili Business Intelligence solution includes following key components
+
+    * Reporting
+    * Analytics
+    * Dashboards
+    * ETL
+    * Data Mining
+
+Reporting
+Hakili Reporting solutions are rich portal based solutions with supports wide range of data sources including relational, OLAP & XMLs. It offers all popular output formats of reports. Supports email delivery of reports with scheduling support. It supports rich & interactive graphical representation of reports to the business users.  Key Features include,
+
+    * Supports all popular open source and proprietary data sources
+    * Provides rich report designing tools which makes development faster
+    * Provides query reporting support for business users
+    * Provides rich user interface for interactive reporting
+    * Supports multiple report delivery mechanisms
+
+Analytics
+Hakili Analytics solution offers drilling down capabilities for interactive reporting. The solutions support all popular databases.  Solutions also offer tools to improve performance of analytic reports. Key Features include,
+
+    * Provides tools to design analytic schemas which makes development faster
+    * Offers performance enhancement tools
+    * Integration with reporting solutions
+
+Dashboards
+Hakili Dashboards solution offers rich GUI based monitoring of key performance indices of the organization. Key Features include,
+
+    * Rich interactive display support including Adobe Flash based visualizations
+    * Self service designers that enables business users to design dashboards of their choice
+    * Offers integration with Reporting and Analytics
+
+Extract, Transform & Load (ETL)
+Providing one single version of data for business intelligence is always a challenge for any enterprise. Hakili ETL solutions add capabilities to easily centralize data from multiple enterprise data sources. Key Features include,
+
+    * Rich GUI Based designer which enables faster development
+    * Supports wide range of in built transformations
+    * Enterprise class scalability and performance
+    * Integration with data mining and reporting solutions
+
+Data Mining
+Hakili Data Mining solutions take business intelligence at next level by providing prediction of hidden data patterns and future performance.  It offers a powerful data-mining engine. Key Features include,
+
+    * In built set of algorithms like clustering, segmentation, decision trees, random forests, neural networks, and principal component analysis
+    * Java based custom algorithm support
+
+Integration with ETL solutions to transform output of data mining to data warehouse which can be further used for reporting
+
+
+
+
+
+Corporate Intranet
+
+Intranet Software enables an organization to securely share it's information or operations with it's members. It enables the efficient use and more importantly reuse of an organization's gathered business knowledge and intelligence, which increases productivity and knowledge transfer in any organization. Increasingly, extranets are also coming into use, where external partners, customers can also interact with an organization.
+The need for Corporate Intranets
+
+    * Interactions between known, remote members of organization need to be saved and stored
+    * Exchange of tools, files, and information between team members and teams increases efficiency
+    * Availability and transfer of knowledge throughout organization increases productivity
+    * Controlled file and information storage and distribution is required
+    * Large amounts of information need to be organized to be found easily
+
+
+
+
+
+
+
+
+
+
+E-Commerce
+
+Multi-store, multi-lingual ecommerce sites with a support for multiple currencies
+ 
+Hakili provides powerful ecommerce solutions to be integrated with your website. The ecommerce solutions provides following capabilities to the website:
+
+    * Product Browsing - multiple images for products, options for extensive reviews, wishlists and much more.
+    * Catalog Management - inventory management, batch import and export of products, different tax rates per location, additional product attributes.
+    * Reports – Best purchased, abandoned shopping cart, low stock, coupon usage, total sales.
+    * Customer Accounts - order status and history, e-mail and RSS feeds for products in the wishlist, newsletter subscription, default billing and shipping address.
+    * Customer Service - enhanced features for customers' accounts, Contact Us form, comprehensive order tracking and history, customizable order e-mails.
+    * Order Management - create orders through admin area, create multiple invoices shipments & credit memos, Call center order creation option.
+    * Payment - different payment methods: credit cards, PayPal, Authorize.net, Google Checkout, checks, money orders, support of external payment modules like Cybersource, ePay, eWAY and many more.
+    * Shipping - shipping to multiple addresses, flat rating shipping, supports UPS, UPS XML (account rates), FedEx (account rates), USPS and DHL.
+    * Search Engine Optimization - 100% Search Engine Friendly, Google SiteMap support.
+    * International Support - multiple languages and currencies, list of allowed countries for registration, purchasing and shipping, localization.
+    * Marketing Promotions and Tools - coupons, discounts and different promotion options.
+    * Site Management - control of multiple web sites, multiple languages, tax rate with support for US and International markets, customizable outlook through templates.
+
+Benefits of Hakili Ecommerce Solution
+
+    * Zero license fee - Open source, robust and highly secure platform
+    * Flexibility to administer, manage and change the software
+    * Integration with CMS systems such as Drupal, Liferay
+    * Integrate with more than 50 payment gateways
+    * Multiple sites with a single instance – Low cost I.T infrastructure
+    * Easily extensible as per customer requirements
+    * Search Engine Optimization for marketing
+
+
+
+
+
+
+
+
+
+
+
